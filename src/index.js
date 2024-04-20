@@ -18,10 +18,10 @@ const check = require('../utils/check');
 
         // Using "check" module
         if (check(jsonData)) {
-            console.log("Returned: True");
+            console.log("Check function returned: True");
             return true;
         } else {
-            console.log("Returned: False");
+            console.log("Check function returned: False");
             return false;
         }
 
