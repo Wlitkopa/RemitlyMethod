@@ -1,0 +1,22 @@
+{
+  "name": "remitlyrecruitment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wlitkopa/RemitlyRecruitment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wlitkopa/RemitlyRecruitment/issues"
+  },
+  "homepage": "https://github.com/Wlitkopa/RemitlyRecruitment#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
