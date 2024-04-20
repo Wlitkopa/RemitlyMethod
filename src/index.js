@@ -3,7 +3,7 @@ const fs = require('fs');
 const check = require('../utils/check');
 
 
-// Main function, using imported "check" module to validate Resource field in AWS::IAM::Role Policy json data.
+// Main function, using imported "check" module to validate Resource key value in AWS::IAM::Role Policy json data.
 // json data are being read from "rolePolicy.json" file.
 
 (async () => {
